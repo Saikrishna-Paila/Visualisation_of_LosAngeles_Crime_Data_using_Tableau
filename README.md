@@ -1,8 +1,9 @@
 # Visualisation of Los Angeles Crime Data using Tableau
 
+![Crime Data Visualization](https://github.com/Saikrishna-Paila/Visualisation_of_LosAngeles_Crime_Data_using_Tableau/blob/main/crime.png)
+
 ## Project Overview
 This project involves a detailed analysis of crime in Los Angeles over a four-year period (2020 to 2023). Using a robust dataset provided by the Los Angeles Open Data Portal, our team has developed extensive visualizations to highlight crime trends, demographic impacts, and the effectiveness of law enforcement responses. The goal is to provide actionable insights for crime prevention and law enforcement strategies in Los Angeles.
-
 
 ## Data Source
 The primary data for this project comes from the [Los Angeles Open Data Portal](https://catalog.data.gov/dataset/crime-data-from-2020-to-present). This dataset consists of approximately 900,000 crime incidents, detailed across 29 columns, including timestamps, crime types, victim demographics, and geographical coordinates.
@@ -29,3 +30,8 @@ Detailed steps involved in the preprocessing of data:
 ## Tools Used
 - **Tableau** for data visualization
 - **Python** for data cleaning and preparation
+
+## Final Output
+The final dashboard provides a comprehensive view of crime trends, patterns, and insights. Below is a screenshot of the final dashboard:
+
+![Final Dashboard](https://github.com/Saikrishna-Paila/Visualisation_of_LosAngeles_Crime_Data_using_Tableau/blob/main/DashBoard_screenshot.png)
